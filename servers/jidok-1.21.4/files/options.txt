@@ -1,0 +1,11 @@
+version:4189
+entityDistanceScaling:2.5
+autoJump:false
+realmsNotifications:false
+resourcePacks:["fabric"]
+lang:ko_kr
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+allowServerListing:true
+onboardAccessibility:false

@@ -186,6 +186,27 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 245,
+            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok-1.21.4/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 176,
+            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok-1.21.4/files/servers.dat",
+            "MD5": "b0bfe71e74ef37a205eeb5c8d1cf7e82",
+            "path": "servers.dat"
+          }
+        },
+        {
           "id": "ComplementaryUnbound_r5.5.1.zip",
           "name": "ComplementaryUnbound_r5.5.1.zip",
           "type": "File",
