@@ -12,7 +12,7 @@
       "name": "지독 서버",
       "description": "Minecraft 1.21.4 (Fabric v0.16.14)",
       "icon": "https://github.com/mchdistro/jidok/raw/main/server-icon.png",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "vlyzmcore.mcv.kr",
       "minecraftVersion": "1.21.4",
       "discord": {
@@ -186,11 +186,33 @@
           }
         },
         {
+          "id": "commandkeys.json",
+          "name": "commandkeys.json",
+          "type": "File",
+          "artifact": {
+            "size": 2887,
+            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok-1.21.4/files/config/commandkeys.json",
+            "MD5": "6cf8aae42d56c16db2a82f62151eebe8",
+            "path": "config/commandkeys.json"
+          }
+        },
+        {
+          "id": "journeymap.minimap.config",
+          "name": "journeymap.minimap.config",
+          "type": "File",
+          "artifact": {
+            "size": 2304,
+            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok-1.21.4/files/journeymap/config/6.0/journeymap.minimap.config",
+            "MD5": "b83af48ad645f39c9d8e632ab3becbe5",
+            "path": "journeymap/config/6.0/journeymap.minimap.config"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 245,
+            "size": 534,
             "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok-1.21.4/files/options.txt",
             "path": "options.txt"
           }

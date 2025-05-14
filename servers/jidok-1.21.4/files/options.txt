@@ -1,5 +1,7 @@
 version:4189
 entityDistanceScaling:2.5
+guiScale:3
+narrator:0
 autoJump:false
 realmsNotifications:false
 resourcePacks:["fabric"]
@@ -9,3 +11,9 @@ skipMultiplayerWarning:true
 joinedFirstServer:true
 allowServerListing:true
 onboardAccessibility:false
+key_key.chat:key.keyboard.enter
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_iris.keybind.wireframe:key.keyboard.unknown
+soundCategory_music:0.0
