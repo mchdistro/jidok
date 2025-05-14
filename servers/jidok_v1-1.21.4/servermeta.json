@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/jidok/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.1",
+    "version": "1.0.0",
     "name": "지독 서버",
     "description": "Minecraft 1.21.4 (Fabric v0.16.14)",
     "icon": "https://github.com/mchdistro/jidok/raw/main/server-icon.png",
