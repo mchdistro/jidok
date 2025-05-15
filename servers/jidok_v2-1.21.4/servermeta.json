@@ -20,7 +20,12 @@
   "untrackedFiles": [
     {
       "appliesTo": ["files"],
-      "patterns": ["options.txt"]
+      "patterns": [
+        "options.txt",
+        "journeymap/config/6.0/journeymap.minimap.config",
+        "config/commandkeys.json",
+        "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt"
+      ]
     }
   ]
 }
