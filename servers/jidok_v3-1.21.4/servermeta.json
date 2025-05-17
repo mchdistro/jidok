@@ -24,6 +24,7 @@
         "options.txt",
         "journeymap/config/6.0/journeymap.minimap.config",
         "config/commandkeys.json",
+        "config/iris.properties",
         "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt"
       ]
     }

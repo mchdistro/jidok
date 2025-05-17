@@ -196,6 +196,16 @@
           }
         },
         {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 312,
+            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v2-1.21.4/files/config/iris.properties",
+            "path": "config/iris.properties"
+          }
+        },
+        {
           "id": "journeymap.minimap.config",
           "name": "journeymap.minimap.config",
           "type": "File",
@@ -210,7 +220,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 534,
+            "size": 1164,
             "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v2-1.21.4/files/options.txt",
             "path": "options.txt"
           }
