@@ -25,6 +25,7 @@
         "journeymap/config/6.0/journeymap.minimap.config",
         "config/commandkeys.json",
         "config/iris.properties",
+        "config/plasmovoice/client.toml",
         "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt"
       ]
     }

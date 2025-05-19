@@ -206,6 +206,16 @@
           }
         },
         {
+          "id": "client.toml",
+          "name": "client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1156,
+            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v3-1.21.4/files/config/plasmovoice/client.toml",
+            "path": "config/plasmovoice/client.toml"
+          }
+        },
+        {
           "id": "journeymap.minimap.config",
           "name": "journeymap.minimap.config",
           "type": "File",
