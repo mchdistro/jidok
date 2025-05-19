@@ -166,6 +166,16 @@
           }
         },
         {
+          "id": "su.plo.voice:plasmovoice:2.1.4@jar",
+          "name": "Plasmo Voice",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12181332,
+            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v3-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.4.jar",
+            "MD5": "299d1a875181c9f26cd7704d0520a38b"
+          }
+        },
+        {
           "id": "net.caffeinemc.mods:sodium:0.6.13+mc1.21.4@jar",
           "name": "Sodium",
           "type": "FabricMod",
@@ -173,16 +183,6 @@
             "size": 1306799,
             "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v3-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
             "MD5": "28922a78d1876ee062e3265f10abcc46"
-          }
-        },
-        {
-          "id": "de.maxhenkel:voicechat:1.21.4-2.5.30@jar",
-          "name": "Simple Voice Chat",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 6615653,
-            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v3-1.21.4/fabricmods/required/voicechat-fabric-1.21.4-2.5.30.jar",
-            "MD5": "b8cadad576b8d5fe7e2f55b2f36b0ead"
           }
         },
         {
