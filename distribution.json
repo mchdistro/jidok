@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "jidok_v3-1.21.4",
+      "id": "jidok_v4-1.21.4",
       "name": "지독 서버",
       "description": "Minecraft 1.21.4 (Fabric v0.16.14)",
       "icon": "https://github.com/mchdistro/jidok/raw/main/server-icon.png",
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 417317,
-            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v3-1.21.4/fabricmods/required/commandkeys-fabric-2.3.9+1.21.4.jar",
+            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v4-1.21.4/fabricmods/required/commandkeys-fabric-2.3.9+1.21.4.jar",
             "MD5": "3929d0869e471f28dd206abc64f00856"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2147553,
-            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v3-1.21.4/fabricmods/required/fabric-api-0.119.2+1.21.4.jar",
+            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v4-1.21.4/fabricmods/required/fabric-api-0.119.2+1.21.4.jar",
             "MD5": "a543174245cd21248bfee7a5a826d718"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2682702,
-            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v3-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v4-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
             "MD5": "59d373e4874efbcb8fb426bdefa588d9"
           }
         },
@@ -151,7 +151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3511796,
-            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v3-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.46.jar",
+            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v4-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.46.jar",
             "MD5": "693b9f00e61e0f4af855804dd1cea86b"
           }
         },
@@ -161,7 +161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3277510,
-            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v3-1.21.4/fabricmods/required/koreanpatch-fabric-1.8.2+mc1.21.3.jar",
+            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v4-1.21.4/fabricmods/required/koreanpatch-fabric-1.8.2+mc1.21.3.jar",
             "MD5": "afac8343404b6eaa6f7ea7665224777f"
           }
         },
@@ -171,7 +171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 12181332,
-            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v3-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.4.jar",
+            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v4-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.4.jar",
             "MD5": "299d1a875181c9f26cd7704d0520a38b"
           }
         },
@@ -181,7 +181,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1306799,
-            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v3-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v4-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
             "MD5": "28922a78d1876ee062e3265f10abcc46"
           }
         },
@@ -191,7 +191,7 @@
           "type": "File",
           "artifact": {
             "size": 2887,
-            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v3-1.21.4/files/config/commandkeys.json",
+            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v4-1.21.4/files/config/commandkeys.json",
             "path": "config/commandkeys.json"
           }
         },
@@ -201,7 +201,7 @@
           "type": "File",
           "artifact": {
             "size": 312,
-            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v3-1.21.4/files/config/iris.properties",
+            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v4-1.21.4/files/config/iris.properties",
             "path": "config/iris.properties"
           }
         },
@@ -211,7 +211,7 @@
           "type": "File",
           "artifact": {
             "size": 1156,
-            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v3-1.21.4/files/config/plasmovoice/client.toml",
+            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v4-1.21.4/files/config/plasmovoice/client.toml",
             "path": "config/plasmovoice/client.toml"
           }
         },
@@ -221,7 +221,7 @@
           "type": "File",
           "artifact": {
             "size": 2271,
-            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v3-1.21.4/files/journeymap/config/6.0/journeymap.minimap.config",
+            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v4-1.21.4/files/journeymap/config/6.0/journeymap.minimap.config",
             "path": "journeymap/config/6.0/journeymap.minimap.config"
           }
         },
@@ -230,9 +230,31 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 1164,
-            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v3-1.21.4/files/options.txt",
+            "size": 1326,
+            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v4-1.21.4/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "Jidok_Server_font.zip",
+          "name": "Jidok_Server_font.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1761533,
+            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v4-1.21.4/files/resourcepacks/Jidok_Server_font.zip",
+            "MD5": "aa9cac04bc798fcc00cf0e8896f1f053",
+            "path": "resourcepacks/Jidok_Server_font.zip"
+          }
+        },
+        {
+          "id": "jidok_server_resourcepack.zip",
+          "name": "jidok_server_resourcepack.zip",
+          "type": "File",
+          "artifact": {
+            "size": 36951174,
+            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v4-1.21.4/files/resourcepacks/jidok_server_resourcepack.zip",
+            "MD5": "937901d2f9c6b5b336d143f0c638bad6",
+            "path": "resourcepacks/jidok_server_resourcepack.zip"
           }
         },
         {
@@ -241,7 +263,7 @@
           "type": "File",
           "artifact": {
             "size": 176,
-            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v3-1.21.4/files/servers.dat",
+            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v4-1.21.4/files/servers.dat",
             "MD5": "b0bfe71e74ef37a205eeb5c8d1cf7e82",
             "path": "servers.dat"
           }
@@ -252,7 +274,7 @@
           "type": "File",
           "artifact": {
             "size": 456332,
-            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v3-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v4-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
             "MD5": "576ef06da170458879f3a03e685d487a",
             "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
           }
@@ -263,7 +285,7 @@
           "type": "File",
           "artifact": {
             "size": 50,
-            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v3-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt",
+            "url": "https://github.com/mchdistro/jidok/raw/main/servers/jidok_v4-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt",
             "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt"
           }
         }
